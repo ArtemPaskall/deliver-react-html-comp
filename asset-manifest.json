@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deliver-react-html-comp/static/css/main.a907de2e.css",
+    "main.js": "/deliver-react-html-comp/static/js/main.1a701c89.js",
+    "index.html": "/deliver-react-html-comp/index.html",
+    "main.a907de2e.css.map": "/deliver-react-html-comp/static/css/main.a907de2e.css.map",
+    "main.1a701c89.js.map": "/deliver-react-html-comp/static/js/main.1a701c89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a907de2e.css",
+    "static/js/main.1a701c89.js"
+  ]
+}
